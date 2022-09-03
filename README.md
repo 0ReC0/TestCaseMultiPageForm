@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a1fae28e-a898-48de-b0f8-c569ed9583bf/deploy-status)](https://app.netlify.com/sites/shiny-seahorse-faea50/deploys)
 # TestCaseMultiPageForm
 
 # Init
